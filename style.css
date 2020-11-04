@@ -1,0 +1,33 @@
+header {
+    list-style-type: none;
+    background-color: white;
+    padding: 1px;
+    background-color: black;
+    color: white
+}
+
+header ul li {
+    display: inline-block;
+    padding: 2px
+}
+
+main ul li {
+    list-style-type: none;
+    margin-left: 500px;
+    padding: 5px
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.login-button {
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+}
+
+.box {
+    width: 400px;
+}
